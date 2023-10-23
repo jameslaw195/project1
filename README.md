@@ -18,4 +18,4 @@ Today we are learning Github and Markdown.
 [Spiced Academy](https://www.spiced-academy.com/en/program/full-stack-web-development) 
 
 ### Link to an image
-![Virginia Woolf](https://cdn.britannica.com/82/138382-050-2E8FCB26/Virginia-Woolf.jpg)
+![Virginia Woolf](https://cdn.britannica.com/82/138382-050-2E8FCB26/Virginia-Woolf.jpg "Virginia Woolf")

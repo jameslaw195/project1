@@ -19,3 +19,8 @@ Today we are learning Github and Markdown.
 
 ### Link to an image
 ![Virginia Woolf](https://cdn.britannica.com/82/138382-050-2E8FCB26/Virginia-Woolf.jpg "Virginia Woolf")
+
+## Code
+### Code line
+
+We can add a code line like this console.log(almost done)

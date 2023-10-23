@@ -13,3 +13,6 @@ Today we are learning Github and Markdown.
 - first
 - second
 - third
+
+### Link to a page
+[Spiced Academy](https://www.spiced-academy.com/en/program/full-stack-web-development)
